@@ -1,2 +1,2 @@
-# blog-vuepress
-基于vuepress的博客笔记网站
+# note-vuepress
+基于vuepress的web前端笔记
