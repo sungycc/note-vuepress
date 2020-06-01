@@ -6,7 +6,7 @@ module.exports = {
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
   ],
   markdown: {
-    lineNumbers: true,
+    // lineNumbers: true,
   },
   // theme: '@vuepress/theme-vue',
   themeConfig: {
@@ -70,6 +70,9 @@ module.exports = {
       ],
       '/node/': [
         '/node/',
+        '/node/npm',
+        '/node/yarn',
+        '/node/core',
         '/node/module',
         '/node/express',
         '/node/koa',
