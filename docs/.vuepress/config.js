@@ -44,11 +44,22 @@ module.exports = {
           title: 'javascript',
           collapsable: false,
           children: [
+            '/web/expressions-operators',
+            '/web/type',
             '/web/this',
             '/web/prototype',
+            '/web/inherit',
             '/web/extend',
             '/web/ajax',
             '/web/jsonp',
+            '/web/void',
+          ]
+        },
+        {
+          title: 'es6',
+          collapsable: false,
+          children: [
+            '/web/base',
             '/web/arrow-function',
             '/web/promise',
           ]

@@ -4,6 +4,14 @@
 
 - CSSweb高级解决方案
 
+## javascript
+
+- 《编写可维护的 JavaScript》
+- 《JavaScript 语言精粹》
+- 《JavaScript DOM 编程艺术》
+- 《JavaScript 权威指南(第6版)》
+- 《JavaScript 高级程序设计(第3版)》
+
 ## React
 
 - 《React前端技术与工程实践》- 作者:李晋华 出版时间:2017年03月
